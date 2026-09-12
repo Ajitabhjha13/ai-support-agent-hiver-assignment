@@ -1,0 +1,16 @@
+pair_id,customer_message,gold_intent,pred_intent,gold_escalate,pred_escalate,judge_overall,note
+2506053_2506051,"I wonder how long after my credit card is charged and my phone is preparing for shipment, it will actually ship??",order_shipping,order_shipping,yes,yes,4.5,
+2488667_2488666,"Oh god my phone is dying. It's faking deader than the dead sea. Help",battery_performance,battery_performance,no,no,4.3,
+1633120_1633119,"trying to add my card to my new iPhone X and getting this error? Help!",account_security,account_security,yes,yes,4.2,
+1363854_1363856,"ThankYou. I hope that works :)",praise_feedback,praise_feedback,no,no,4.0,
+1788624_1788622,"thanks for screwing up our phones with the new iOS update . I demand a refund or a replacement .",billing_refund,software_update_issue,yes,yes,3.0,intent mismatch: refund demand embedded in an update complaint
+2640143_2640142,"online live chat is the least helpful thing ever! Wasted half of my Saturday..",other_unclear,other_unclear,yes,yes,4.0,
+2921559_2921558,"Downloaded a purchased album to my new X, but it's out of order.",device_bug,device_bug,no,no,4.7,
+1713061_1713064,"Thanks, but this doesn't answer my question... my old watch keeps showing up in that list.",device_bug,howto_info,no,yes,3.5,both intent AND escalate mismatch - ambiguous mid-thread continuation
+2360360_2360362,"Nope still doesn't work when I tweet.",other_unclear,other_unclear,yes,yes,4.2,
+1762821_1762820,"can we generate 'APP-SPECIFIC PASSWORD' on iPhone/iPad?",howto_info,howto_info,no,no,4.8,
+2001203_2001202,"whattttt is up with these question marks when I use the letter I",software_update_issue,software_update_issue,no,no,4.6,
+1774501_1774499,"Yo! What's the deal with this question mark in a box bullshit???",software_update_issue,software_update_issue,no,no,4.4,
+407972_407974,"request a refund for a music purchase",billing_refund,billing_refund,yes,yes,4.5,
+195949_195948,"iCloud hacked & am now locked out of my Mac...",account_security,account_security,yes,yes,4.3,
+2795910_2795911,"thank you this helped !!!!!",praise_feedback,praise_feedback,no,no,4.7,

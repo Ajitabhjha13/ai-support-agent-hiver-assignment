@@ -1,0 +1,16 @@
+pair_id,customer_message,intent,escalate
+2506053_2506051,"I wonder how long after my credit card is charged and my phone is preparing for shipment, it will actually ship?? ? ? #soantsy #notgoodatwaiting #iPhoneX",order_shipping,yes
+2488667_2488666,Oh god my phone is dying. It's faking deader than the dead sea. Help,battery_performance,no
+1633120_1633119,trying to add my card to my new iPhone X and getting this error? Help!,account_security,yes
+1363854_1363856,ThankYou. I hope that works :),praise_feedback,no
+1788624_1788622,", thanks for screwing up our phones with the new iOS update . I demand a refund or a replacement .",billing_refund,yes
+2640143_2640142,online live chat is the least helpful thing ever! Wasted half of my Saturday speaking to 3 people who all say something different 😠,other_unclear,yes
+2921559_2921558,"Alright I can’t figure this one out. Downloaded a purchased album to my new X, but it’s out of order. There seems to be no changing it. 🤔 Help!!",device_bug,no
+1713061_1713064,"Thanks, but this doesn't answer my question. I already knew how to do this, I am wondering why my old watch keeps showing up in that list.",device_bug,no
+2360360_2360362,Nope still doesn’t work when I tweet.,other_unclear,yes
+1762821_1762820,can we generate 'APP-SPECIFIC PASSWORD' on iPhone/iPad?,howto_info,no
+2001203_2001202,whattttt is up with these question marks when I use the letter I️,software_update_issue,no
+1774501_1774499,Yo! What’s the deal with this question mark in a box bullshit???,software_update_issue,no
+407972_407974,request a refund for a music purchase,billing_refund,yes
+195949_195948,iCloud hacked &amp; am now locked out of my Mac which now asks for a 6 digit pin or to contact support on __email__...,account_security,yes
+2795910_2795911,thank you this helped !!!!!,praise_feedback,no
